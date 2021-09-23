@@ -191,12 +191,12 @@ body > section,
 
 .carousel-caption {
   top: 33%;
-  left: 50%
+  
 
 }
 
 .carousel-caption h2 {
-  font-size: 54px;
+  font-size: 65px;
   font-weight: 300;
 }
 
@@ -205,7 +205,7 @@ body > section,
 }
 
 .carousel-caption h3 {
-  font-size: 40px;
+  font-size: 46px;
   font-weight: 300;
   margin: 6px 0 20px;
 }
